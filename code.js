@@ -1,4 +1,4 @@
-var pepe = 'hola Mundo';
+var pepito = 'hola Mundo';
 
 function dobleChar(str){
     var newString = '';
