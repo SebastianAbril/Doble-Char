@@ -5,6 +5,13 @@
     align-items: center;
 }
 
+.cabecera{
+    background-color: brown;
+    color:white;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px;
+}
 .para{
     background: blueviolet;
     border: 1px solid black;
